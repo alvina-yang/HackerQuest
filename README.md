@@ -30,7 +30,7 @@ The project is organized into several subdirectories, each containing important 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alvina-yang/HTN2024.git
+   git clone https://github.com/alvina-yang/HackerQuest.git
    cd HackerQuest
    ```
 
